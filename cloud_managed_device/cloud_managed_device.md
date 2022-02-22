@@ -1,5 +1,5 @@
 ---
-title:  Welcome to GitHub Pages
+title:  cloud_managed_device
 tags: [content_types]
 keywords: groups, api, structure
 last_updated: July 3, 2016
