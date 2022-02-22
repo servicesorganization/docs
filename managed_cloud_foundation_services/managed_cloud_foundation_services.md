@@ -1,5 +1,5 @@
 ---
-title:  Welcome to GitHub Pages
+title:  managed_cloud_foundation_services
 tags: [content_types]
 keywords: groups, api, structure
 last_updated: July 3, 2016
