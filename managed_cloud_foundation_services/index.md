@@ -1,3 +1,14 @@
+---
+title:  Welcome to GitHub Pages
+tags: [content_types]
+keywords: groups, api, structure
+last_updated: July 3, 2016
+summary: "Collections are useful if you want to loop through a special folder of pages that you make available in a content API. You could also use collections if you have a set of articles that you want to treat differently from the other content, with a different layout or format."
+sidebar: mydoc_sidebar
+permalink: index.html
+folder: managed_cloud_foundation_services
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/servicesorganization/docs/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
