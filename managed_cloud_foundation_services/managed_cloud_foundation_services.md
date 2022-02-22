@@ -9,40 +9,106 @@ permalink: managed_cloud_foundation_services.html
 folder: managed_cloud_foundation_services
 ---
 
-## Welcome to GitHub Pages
+![](View%20Source_files/macro.png)
 
-You can use the [editor on GitHub](https://github.com/servicesorganization/docs/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<table data-layout="default" ac:local-id="4d557707-1282-4a7b-9a2c-8bf5339221f7" class="confluenceTable"><colgroup><col style="width: 680.0px;"></colgroup>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<tbody>
 
-### Markdown
+<tr>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<td class="confluenceTd">
 
-```markdown
-Syntax highlighted code block
+Login Consultants
 
-# Header 1
-## Header 2
-### Header 3
+</td>
 
-- Bulleted
-- List
+</tr>
 
-1. Numbered
-2. List
+<tr>
 
-**Bold** and _Italic_ and `Code` text
+<td class="confluenceTd">
 
-[Link](url) and ![Image](src)
-```
+Services Organization Tenant
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+</td>
 
-### Jekyll Themes
+</tr>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/servicesorganization/docs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</tbody>
 
-### Support or Contact
+</table>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Releases
+
+<span class="text-placeholder">If this project has releases, outline them here.</span>
+
+<table data-layout="default" ac:local-id="137ba16f-6c22-43b7-a9f1-3d156746d4e7" class="confluenceTable"><colgroup><col style="width: 136.0px;"><col style="width: 136.0px;"><col style="width: 136.0px;"><col style="width: 136.0px;"><col style="width: 136.0px;"></colgroup>
+
+<tbody>
+
+<tr>
+
+<th class="confluenceTh">
+
+**Release Name**
+
+</th>
+
+<th class="confluenceTh">
+
+**Value it adds**
+
+</th>
+
+<th class="confluenceTh">
+
+**Scope**
+
+</th>
+
+<th class="confluenceTh">
+
+**Status**
+
+</th>
+
+<th class="confluenceTh">
+
+**Completed date**
+
+</th>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td></td>
+
+<td"></td>
+
+<td>
+
+![](View%20Source_files/placeholder.png) / ![](View%20Source_files/placeholder_004.png) / ![](View%20Source_files/placeholder_002.png) / ![](View%20Source_files/placeholder_005.png) / ![](View%20Source_files/placeholder_003.png)
+
+</td>
+
+<td></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+# Disclosure and Warranty
+
+The information, concepts, and ideas contained in this document are the property of Login Consultants. Without limiting the rights under copyright, no part of this document may be reproduced, stored in or introduced into a retrieval system, or transmitted in any form or by any means (electronic, mechanical, photocopying, recording, or otherwise), or for any purpose, without the express written permission of Login Consultants. Any product descriptions or representations in this document are for identification purposes only and are not to be construed as a warranty of specific properties or guarantee or warranty of any other type.
+
+Login Consultants shall assume no liability, either explicit or implied, for the documentation. Information in this document, including URL and other Internet Web site references, is subject to change without notice.
+
+All sample code described in this document is provided by Login Consultants for illustrative purposes only. These examples have not been thoroughly tested under all conditions. Login Consultants, therefore, cannot guarantee or imply reliability, serviceability, or functionality of these programs or code examples. All brand names and product names used in this document are trademarks of their respective holders and are recognized as such.
+
+© 2021 Login Consultants. All rights reserved.
