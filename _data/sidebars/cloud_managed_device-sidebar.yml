@@ -1,63 +1,83 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: Cloud Managed Device
-  levels: two
+- title: sidebar
+  product: Cloud Managed Device
+  version: 6.0
   folders:
-
-  - title: Cloud Managed Device
-    output: web
+  
+  - title: Overview
+    output: web, pdf
     folderitems:
+    
     - title: What is a Cloud Managed Device?
       url: /what-is-a-cloud-managed-device.html
-      output: web
+      output: web, pdf
+      type: homepage
+      
     - title: Microsoft Intune
       url: /microsoft-intune.html
       output: web
+      
     - title: Managed Device
       url: /managed-device.html
       output: web
+      
     - title: Device Enrollment
       url: /device-enrollment.html
       output: web
+      
     - title: Device Clean up
       url: /device-clean-up.html
       output: web
+      
     - title: Windows
       url: /windows.html
       output: web
+      
     - title: Windows Autopilot
       url: /windows-autopilot.html
       output: web
+      
     - title: Device Compliance
       url: /device-compliance.html
       output: web
+      
     - title: Device Configurations
       url: /device-configurations.html
       output: web
+      
     - title: Endpoint Analytics
       url: /endpoint-analytics.html
       output: web
+      
     - title: Azure log Analytics Update Compliance
       url: /azure-log-analytics-update-compliance.html
       output: web
+      
     - title: Proactive Remediation
       url: /proactive-remediation.html
       output: web
+      
     - title: Application Delivery
       url: /application-delivery.html
       output: web
+      
     - title: Remote Help
       url: /remote-help.html
+      output: web,pdf
+      
   - title: DevOps Configuration
-    output: web
+    output: web,pdf
     folderitems:
+    
     - title: Azure app registration and API Permissions
+      output: web, pdf
+      url: /test2.html
+        
+    - title: Configure Device Enrollment
       output: web
-      folderitems:
-        - title: Configure Device Enrollment
-          output: web
-          url: /test.html
+      url: /test.html
     
 
 
