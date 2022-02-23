@@ -71,7 +71,7 @@ entries:
       url: /remote-help.html
       output: web,pdf
       
-  - title: DevOps Configuration
+  - title: Automation
     output: web,pdf
     folderitems:
     
