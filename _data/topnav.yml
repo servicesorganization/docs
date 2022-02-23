@@ -22,7 +22,7 @@ topnav_dropdowns:
         - title: Managed Identity and Access
           url: /managed_identity_and_access.html
         - title: Cloud Managed Device
-          url: /cloud_managed_device.html
+          url: /what-is-a-cloud-managed-device.html
         - title: Managed Office 365
           url: /managed_office_365.html
         - title: Managed Cloud Hosted Desktop & Apps
