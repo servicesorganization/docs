@@ -2,7 +2,7 @@
 
 entries:
 - title: Sidebar
-  levels: one
+  levels: two
   folders:
 
   - title: Cloud Managed Device
@@ -53,8 +53,12 @@ entries:
     output: web
     folderitems:
     - title: Azure app registration and API Permissions
-      url: /what-is-a-cloud-managed-device.html
       output: web
+      folderitems:
+        - title: Configure Device Enrollment
+          output: web
+          url: /test.html
+    
 
 
 # Copyright 2021 Google LLC
