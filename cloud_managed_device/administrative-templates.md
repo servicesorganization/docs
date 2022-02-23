@@ -1,5 +1,5 @@
 ---
-title:  Administrative Templates
+title: Administrative Templates
 tags: [Intune]
 keywords: groups, api, structure
 last_updated: July 3, 2016
