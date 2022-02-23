@@ -19,7 +19,7 @@ entries:
       url: /microsoft-intune.html
       output: web
 
-  - title: Intune Design
+  - title: Design Guide
     output: web, pdf
     folderitems:
       
