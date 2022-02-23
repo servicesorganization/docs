@@ -5,23 +5,76 @@ entries:
   levels: one
   folders:
 
-  - title: Products
+  - title: Cloud Managed Device
     output: web
     folderitems:
-    - title: News
-      url: /news.html
+    - title: What is a Cloud Managed Device?
+      url: /what-is-a-cloud-managed-device.html
       output: web
-    - title: Theme instructions
-      url: /mydoc_introduction.html
+    - title: Microsoft Intune
+      url: /microsoft-intune.html
       output: web
-    - title: Product 1
-      url: /p1_landing_page.html
+    - title: Managed Device
+      url: /managed-device.html
       output: web
-    - title: Product 2
-      url: /p2_landing_page.html
+    - title: Device Enrollment
+      url: /device-enrollment.html
       output: web
-    - title: Product 3
-      url: /p3_landing_page.html
+    - title: Device Clean up
+      url: /device-clean-up.html
       output: web
+    - title: Windows
+      url: /windows.html
+      output: web
+    - title: Windows Autopilot
+      url: /windows-autopilot.html
+      output: web
+    - title: Device Compliance
+      url: /device-compliance.html
+      output: web
+    - title: Device Configurations
+      url: /device-configurations.html
+      output: web
+    - title: Endpoint Analytics
+      url: /endpoint-analytics.html
+      output: web
+    - title: Azure log Analytics Update Compliance
+      url: /azure-log-analytics-update-compliance.html
+      output: web
+    - title: Proactive Remediation
+      url: /proactive-remediation.html
+      output: web
+    - title: Application Delivery
+      url: /application-delivery.html
+      output: web
+    - title: Remote Help
+      url: /remote-help.html
+  - title: Configuration
+    output: web
+    - title: 
+      url: /.html
+      output: web
+    - title: 
+      url: /.html
+      output: web
+    - title: 
+      url: /.html
+      output: web
+    - title: 
+      url: /.html
+      output: web
+    - title: 
+      url: /.html
+      output: web
+    - title: 
+      url: /.html
+      output: web
+    - title: 
+      url: /.html
+      output: web
+    - title: 
+      url: /.html
+      output: web
+
 
 # Copyright 2021 Google LLC
