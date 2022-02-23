@@ -49,31 +49,11 @@ entries:
       output: web
     - title: Remote Help
       url: /remote-help.html
-  - title: Configuration
+  - title: DevOps Configuration
     output: web
-    - title: 
-      url: /.html
-      output: web
-    - title: 
-      url: /.html
-      output: web
-    - title: 
-      url: /.html
-      output: web
-    - title: 
-      url: /.html
-      output: web
-    - title: 
-      url: /.html
-      output: web
-    - title: 
-      url: /.html
-      output: web
-    - title: 
-      url: /.html
-      output: web
-    - title: 
-      url: /.html
+    folderitems:
+    - title: Azure app registration and API Permissions
+      url: /what-is-a-cloud-managed-device.html
       output: web
 
 
