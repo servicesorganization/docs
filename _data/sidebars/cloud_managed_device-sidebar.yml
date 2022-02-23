@@ -82,6 +82,19 @@ entries:
     - title: Configure Device Enrollment
       output: web
       url: /test.html
+
+  - title: Appendix
+    output: web,pdf
+    folderitems:
+    
+    - title: Azure app registration and API Permissions
+      output: web, pdf
+      url: /test2.html
+        
+    - title: Configure Device Enrollment
+      output: web
+      url: /test.html
+
     
 
 
