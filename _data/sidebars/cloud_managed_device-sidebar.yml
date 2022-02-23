@@ -18,10 +18,10 @@ entries:
     - title: Microsoft Intune
       url: /microsoft-intune.html
       output: web
-      
-- title: Design Configuration
-  output: web, pdf
-  folderitems:
+
+  - title: Design Configuration
+    output: web, pdf
+    folderitems:
       
     - title: Managed Device
       url: /managed-device.html
