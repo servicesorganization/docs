@@ -1,3 +1,3 @@
 # docs
 
-https://docs.logincorporation.com
+https://docs.orangeworkspaceservices.com
