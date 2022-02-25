@@ -83,6 +83,30 @@ entries:
       output: web
       url: /test.html
 
+  - title: Endpoint Security
+    output: web,pdf
+    folderitems:
+    
+    - title: Microsoft Defender for Cloud
+      output: web, pdf
+      url: /test2.html
+        
+    - title: Security Solutions
+      output: web
+      url: /test.html
+
+  - title: Endpoint Monitoring
+    output: web,pdf
+    folderitems:
+    
+    - title: Microsoft Defender for Cloud
+      output: web, pdf
+      url: /test2.html
+        
+    - title: Security Solutions
+      output: web
+      url: /test.html
+
   - title: Appendix
     output: web,pdf
     folderitems:
