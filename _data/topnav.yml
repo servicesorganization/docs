@@ -5,8 +5,7 @@
 #    - title: Topnav
 #      items:
 #        - title: Support
-#          external_url: https://support.orangeworkspaeservices.com
-          
+#          external_url: https://support.orangeworkspaeservices.com        
 #        - title: Contact
 #          url: /contact.html
       
@@ -23,7 +22,8 @@ topnav_dropdowns:
           url: /design_principles.html
         - title: Architecture
           url: /architecture.html
-          
+    
+    - title: Services
       folderitems:
         - title: Managed Cloud Foundation Services
           url: /managed_cloud_foundation_services.html
