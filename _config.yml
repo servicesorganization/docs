@@ -41,6 +41,9 @@ feedback_disable: true
 # feedback_text: "Need help?"
 # if you uncomment the previous line, it changes the Feedback text
 
+# togglesidebar_disable: true
+# if you uncomment the previous line, the toggle button gets removed
+
 # feedback_link: "http://helpy.io/"
 # if you uncomment the previous line, it changes where the feedback link points to
 
