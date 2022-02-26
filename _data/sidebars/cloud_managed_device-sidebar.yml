@@ -71,18 +71,6 @@ entries:
       url: /remote-help.html
       output: web,pdf
       
-  - title: Automation
-    output: web,pdf
-    folderitems:
-    
-    - title: Azure app registration and API Permissions
-      output: web, pdf
-      url: /test2.html
-        
-    - title: Configure Device Enrollment
-      output: web
-      url: /test.html
-
   - title: Security
     output: web,pdf
     folderitems:
@@ -104,6 +92,18 @@ entries:
       url: /test2.html
         
     - title: Security Solutions
+      output: web
+      url: /test.html
+      
+  - title: Automation
+    output: web,pdf
+    folderitems:
+    
+    - title: Azure app registration and API Permissions
+      output: web, pdf
+      url: /test2.html
+        
+    - title: Configure Device Enrollment
       output: web
       url: /test.html
 
