@@ -35,7 +35,7 @@ topnav_dropdowns:
           url: /managed_office_365.html
         - title: Managed Cloud Hosted Desktop & Apps
           url: /managed_cloud_hosted_desktop_and_apps.html
-    - title: Orange Services
+    - title: Additional Services
       folderitems:
         - title: Managed Cloud Hosted Desktop & Apps (Hybrid)
           url: /managed_cloud_hosted_desktop_and_apps_hybrid.html
