@@ -83,7 +83,7 @@ entries:
       output: web
       url: /test.html
 
-  - title: Endpoint Security
+  - title: Security
     output: web,pdf
     folderitems:
     
@@ -95,7 +95,7 @@ entries:
       output: web
       url: /test.html
 
-  - title: Endpoint Monitoring
+  - title: Monitoring
     output: web,pdf
     folderitems:
     
