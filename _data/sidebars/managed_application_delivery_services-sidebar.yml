@@ -8,6 +8,9 @@ entries:
   - title: Products
     output: web
     folderitems:
+    - title: Managed Application Delivery Services
+      url: /managed_application_delivery_services.html
+      output: web
     - title: What is Managed Application Delivery Service?
       url: /mad_what_is_managed_application_delivery_service.html
       output: web
