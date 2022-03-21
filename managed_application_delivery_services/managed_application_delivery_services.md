@@ -1,6 +1,6 @@
 ---
 title:  Managed Application Delivery Services
-tags: [Liquit Workspace, Application Delivery]
+#tags: [Liquit Workspace, Application Delivery]
 keywords: groups, api, structure
 last_updated: July 3, 2016
 sidebar: managed_application_delivery_services-sidebar
