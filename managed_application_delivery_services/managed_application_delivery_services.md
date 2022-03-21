@@ -19,4 +19,4 @@ Hello World!
 > Hello World! This is a tip from Roel Beijnes! 
 
 
-> [!VIDEO <iframe width="1903" height="778" src="https://www.youtube.com/embed/BHgwgkPNZC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]
+> [!VIDEO https://www.youtube.com/embed/BHgwgkPNZC4]
