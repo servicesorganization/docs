@@ -11,12 +11,10 @@ folder: managed_application_delivery_services
 
 
 ## Managed Application Delivery Services
-Hello World! 
 
-
+Hello World!
 
 > [!TIP]
-> Hello World! This is a tip from Roel Beijnes! 
+> Hello World! This is a tip from Roel Beijnes!
 
-
-> [!VIDEO https://www.youtube.com/embed/BHgwgkPNZC4]
+> [!VIDEO <https://www.youtube.com/embed/BHgwgkPNZC4>]
