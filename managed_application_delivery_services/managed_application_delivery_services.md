@@ -7,6 +7,8 @@ keywords: Managed Application Delivery Services, MAD, Liquit Workspace
 sidebar: managed_application_delivery_services-sidebar
 permalink: managed_application_delivery_services.html
 folder: managed_application_delivery_services
+
+# https://opensourcelibs.com/lib/jekyll-embed-video#embed-youtube 
 AzureTrainingId: cszpDeo0aDk
 LiquitWorkspaceId: nHfUTbstZnQ
 ---
@@ -20,6 +22,9 @@ Hello World!
 ![](attachments/ApplicationLifeCycle.png)
 
 [About Liquit Workspace](mad_about_liquit_workspace.md)
+
+
+
 
 {% include youtubePlayer.html id=page.AzureTrainingId %}
 
