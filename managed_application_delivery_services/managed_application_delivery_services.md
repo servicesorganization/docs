@@ -13,3 +13,10 @@ folder: managed_application_delivery_services
 ## Managed Application Delivery Services
 Hello World! 
 
+
+
+> [!TIP]
+> Hello World! This is a tip from Roel Beijnes! 
+
+
+> [!VIDEO <iframe width="1903" height="778" src="https://www.youtube.com/embed/BHgwgkPNZC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]
