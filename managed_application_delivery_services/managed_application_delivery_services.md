@@ -16,8 +16,7 @@ Hello World!
 
 ![](attachments/ApplicationLifeCycle.png)
 
-![](attachments/ApplicationPhases.png)
 
-![Overview of the Application Phases](attachments/ApplicationPhases.png)
 
-![!VIDEO](https://www.microsoft.com/videoplayer/embed/RE4xdvm)
+
+[Azure billing and Active Directory tenant](./design-area/azure-billing-ad-tenant.md)
