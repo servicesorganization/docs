@@ -14,8 +14,7 @@ folder: managed_application_delivery_services
 
 Hello World!
 
-:::image type="content" source="attachments/ApplicationLifeCycle.png" alt-text="Application Lifecycle":::
+![](attachments/ApplicationLifeCycle.png)
 
+![](attachments/ApplicationPhases.png)
 
-
-:::image type="content" source="attachments/ApplicationLifeCycle.png" alt-text="Application Life Cycle":::
