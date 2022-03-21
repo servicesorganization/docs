@@ -14,7 +14,8 @@ folder: managed_application_delivery_services
 
 Hello World!
 
-> [!TIP]
-> Hello World! This is a tip from Roel Beijnes!
+:::image type="content" source="attachments/ApplicationLifeCycle.png" alt-text="Application Lifecycle":::
 
-> [!VIDEO <https://www.youtube.com/embed/BHgwgkPNZC4>]
+
+
+:::image type="content" source="attachments/ApplicationLifeCycle.png" alt-text="Application Life Cycle":::
