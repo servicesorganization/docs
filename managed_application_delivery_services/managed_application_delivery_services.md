@@ -20,6 +20,4 @@ Hello World!
 
 ![Overview of the Application Phases](attachments/ApplicationPhases.png)
 
-<!-- markdownlint-disable MD034 -->
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4xdvm]
-<!-- markdownlint-enable MD034 -->
+![!VIDEO](https://www.microsoft.com/videoplayer/embed/RE4xdvm)
