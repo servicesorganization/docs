@@ -30,7 +30,17 @@ Hello World!
 {% include note.html content="This is my note. All the content I type here is treated as a single paragraph." %}
 
 
-
 {% include youtubePlayer.html id=page.AzureTrainingId %}
 
 {% include youtubePlayer.html id=page.LiquitWorkspaceId %}
+
+
+``` powershell
+[System.Reflection.Assembly]::LoadWithPartialName(“System.Windows.Forms”)
+
+[STRING]$Command = "[Windows.Forms.MessageBox]::Show(`“test`”, `“Ictworkspace.wordpress.com by Roel Beijnes`”, [Windows.Forms.MessageBoxButtons]::OK, [Windows.Forms.MessageBoxIcon]::Information)"
+
+& "$env:windir\syswow64\windowspowershell\v1.0\powershell.exe" -noprofile -WindowStyle hidden -NonInteractive -executionpolicy bypass -command $Command
+Write-Output "test"
+
+```
