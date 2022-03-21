@@ -8,20 +8,22 @@ entries:
   - title: Products
     output: web
     folderitems:
-    - title: News
-      url: /news.html
+    - title: What is Managed Application Delivery Service?
+      url: /mad_what_is_managed_application_delivery_service.html
       output: web
-    - title: Theme instructions
-      url: /mydoc_introduction.html
+    - title: About Liquit Workspace?
+      url: /mad_about_liquit_workspace.html
       output: web
-    - title: Product 1
-      url: /p1_landing_page.html
+    - title: Liquit Release & Patch Management
+      url: /mad_liquit_release_and_patchmanagement.html
       output: web
-    - title: Product 2
-      url: /p2_landing_page.html
+    - title: Liquit Workspace Cloud Infrastructure
+      url: /mad_liquit_workspace_cloud_infrastructure.html
       output: web
-    - title: Product 3
-      url: /p3_landing_page.html
+    - title: Liquit Workspace - Cookbook
+      url: /mad_liquit_workspace_cookbook.html
       output: web
-
+    - title: Liquit Workspace - Runbook
+      url: /mad_liquit_workspace_runbook.html
+      output: web
 # Copyright 2021 Google LLC
