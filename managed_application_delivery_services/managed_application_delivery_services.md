@@ -7,7 +7,9 @@ keywords: Managed Application Delivery Services, MAD, Liquit Workspace
 sidebar: managed_application_delivery_services-sidebar
 permalink: managed_application_delivery_services.html
 folder: managed_application_delivery_services
+youtubeId: cszpDeo0aDk
 ---
+
 
 
 ## Managed Application Delivery Services
@@ -15,8 +17,6 @@ folder: managed_application_delivery_services
 Hello World!
 
 ![](attachments/ApplicationLifeCycle.png)
+[About Liquit Workspace](mad_about_liquit_workspace.md)
 
-
-
-
-[Azure billing and Active Directory tenant](./design-area/azure-billing-ad-tenant.md)
+{% include youtubePlayer.html id=page.youtubeId %}
