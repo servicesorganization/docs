@@ -9,7 +9,7 @@ permalink: managed_application_delivery_services.html
 folder: managed_application_delivery_services
 YouTubeId: cszpDeo0aDk
 MicrosoftStreamId: 1efb2e36-2641-4f79-af3d-a2f5d9636c7c
-MicrosoftOnedriveId: cid=AB3B28CD3DB4CF13&resid=AB3B28CD3DB4CF13%21128360&authkey=AJM3W6zol3GD0KE
+MicrosoftOnedriveId: s!AhPPtD3NKDurh-poYEbNgbHBgkRWJw?e=CnmWe8
 
 ---
 
