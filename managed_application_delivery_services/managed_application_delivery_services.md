@@ -25,10 +25,10 @@ Hello World!
 #### Header 4
 
 Bullit points
--- bullit 1
-    -- subbullit 1
-    -- subbullit 2
--- bullit 2
+- bullit 1
+    - subbullit 1
+    - subbullit 2
+- bullit 2
 
 ![](attachments/ApplicationLifeCycle.png)
 
@@ -36,9 +36,10 @@ Bullit points
 
 
 {% include note.html content="This is my note. All the content I type here is treated as a single paragraph." %}
-{% include note.html content="This is my note. All the content I type here is treated as a single paragraph." %}
-{% include note.html content="This is my note. All the content I type here is treated as a single paragraph." %}
-
+{% include tip.html content="This is my tip. All the content I type here is treated as a single paragraph." %}
+{% include important.html content="This is my important. All the content I type here is treated as a single paragraph." %}
+{% include warning.html content="This is my warning. All the content I type here is treated as a single paragraph." %}
+{% include end.html content="This is my end. All the content I type here is treated as a single paragraph." %}
 
 {% include youtubePlayer.html id=page.YouTubeId %}
 
