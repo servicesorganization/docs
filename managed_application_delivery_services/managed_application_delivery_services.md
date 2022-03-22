@@ -8,51 +8,10 @@ sidebar: managed_application_delivery_services-sidebar
 permalink: managed_application_delivery_services.html
 folder: managed_application_delivery_services
 
-# https://opensourcelibs.com/lib/jekyll-embed-video#embed-youtube 
-# https://github.com/nathancy/jekyll-embed-video
-YouTubeId: cszpDeo0aDk
-MicrosoftStreamId: 1efb2e36-2641-4f79-af3d-a2f5d9636c7c
 ---
 
 
 
 ## Managed Application Delivery Services
 
-Hello World!
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-
-Bullit points
-- bullit 1
-    - subbullit 1
-    - subbullit 2
-        - SubSubBullit
-- bullit 2
-
-![](attachments/ApplicationLifeCycle.png)
-
-[About Liquit Workspace](mad_about_liquit_workspace.md)
-
-
-{% include note.html content="This is my note. All the content I type here is treated as a single paragraph." %}
-{% include tip.html content="This is my tip. All the content I type here is treated as a single paragraph." %}
-{% include important.html content="This is my important. All the content I type here is treated as a single paragraph." %}
-{% include warning.html content="This is my warning. All the content I type here is treated as a single paragraph." %}
-
-{% include youtubePlayer.html id=page.YouTubeId %}
-
-{% include MicrosoftStream.html id=page.MicrosoftStreamId %}
-
-PowerShell Code example
-``` powershell
-[System.Reflection.Assembly]::LoadWithPartialName(“System.Windows.Forms”)
-
-[STRING]$Command = "[Windows.Forms.MessageBox]::Show(`“test`”, `“Ictworkspace.wordpress.com by Roel Beijnes`”, [Windows.Forms.MessageBoxButtons]::OK, [Windows.Forms.MessageBoxIcon]::Information)"
-
-& "$env:windir\syswow64\windowspowershell\v1.0\powershell.exe" -noprofile -WindowStyle hidden -NonInteractive -executionpolicy bypass -command $Command
-Write-Output "test"
-
-```
