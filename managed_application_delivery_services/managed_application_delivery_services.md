@@ -9,8 +9,8 @@ permalink: managed_application_delivery_services.html
 folder: managed_application_delivery_services
 
 # https://opensourcelibs.com/lib/jekyll-embed-video#embed-youtube 
-AzureTrainingId: cszpDeo0aDk
-LiquitWorkspaceId: nHfUTbstZnQ
+YouTubeId: cszpDeo0aDk
+MicrosoftStreamId: 1efb2e36-2641-4f79-af3d-a2f5d9636c7c
 ---
 
 
@@ -19,22 +19,32 @@ LiquitWorkspaceId: nHfUTbstZnQ
 
 Hello World!
 
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+
+Bullit points
+-- bullit 1
+    -- subbullit 1
+    -- subbullit 2
+-- bullit 2
+
 ![](attachments/ApplicationLifeCycle.png)
 
 [About Liquit Workspace](mad_about_liquit_workspace.md)
 
-# Appel
 
-## Appel
-
+{% include note.html content="This is my note. All the content I type here is treated as a single paragraph." %}
+{% include note.html content="This is my note. All the content I type here is treated as a single paragraph." %}
 {% include note.html content="This is my note. All the content I type here is treated as a single paragraph." %}
 
 
-{% include youtubePlayer.html id=page.AzureTrainingId %}
+{% include youtubePlayer.html id=page.YouTubeId %}
 
-{% include youtubePlayer.html id=page.LiquitWorkspaceId %}
+{% include MicrosoftStream.html id=page.MicrosoftStreamId %}
 
-
+PowerShell Code example
 ``` powershell
 [System.Reflection.Assembly]::LoadWithPartialName(“System.Windows.Forms”)
 
