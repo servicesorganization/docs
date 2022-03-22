@@ -30,10 +30,10 @@ Bullit points
         - SubSubBullit
 - bullit 2
 
-1 Number 2
-2 Number 2
-    1 Number 2.1
-    2 Number 2.2
+1. Number 2
+2. Number 2
+    1. Number 2.1
+    2. Number 2.2
 
 
 
