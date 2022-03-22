@@ -35,7 +35,7 @@ Bullit points
 [About Liquit Workspace](mad_about_liquit_workspace.md)
 
 
-{% include note.html content="This is my note. All the content I type here is treated as a single paragraph." %}
+{% include note.html content="Ik ben heel benieuwd" %}
 {% include tip.html content="This is my tip. All the content I type here is treated as a single paragraph." %}
 {% include important.html content="This is my important. All the content I type here is treated as a single paragraph." %}
 {% include warning.html content="This is my warning. All the content I type here is treated as a single paragraph." %}
