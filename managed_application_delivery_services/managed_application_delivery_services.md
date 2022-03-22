@@ -39,7 +39,6 @@ Bullit points
 {% include tip.html content="This is my tip. All the content I type here is treated as a single paragraph." %}
 {% include important.html content="This is my important. All the content I type here is treated as a single paragraph." %}
 {% include warning.html content="This is my warning. All the content I type here is treated as a single paragraph." %}
-{% include end.html content="This is my end. All the content I type here is treated as a single paragraph." %}
 
 {% include youtubePlayer.html id=page.YouTubeId %}
 
