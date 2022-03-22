@@ -9,6 +9,7 @@ permalink: managed_application_delivery_services.html
 folder: managed_application_delivery_services
 
 # https://opensourcelibs.com/lib/jekyll-embed-video#embed-youtube 
+# https://github.com/nathancy/jekyll-embed-video
 YouTubeId: cszpDeo0aDk
 MicrosoftStreamId: 1efb2e36-2641-4f79-af3d-a2f5d9636c7c
 ---
