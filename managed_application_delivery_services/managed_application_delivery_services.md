@@ -44,7 +44,6 @@ Bullit points
 
 {% include MicrosoftStream.html id=page.MicrosoftStreamId %}
 
-{% include MicrosoftOnedrive.html id=page.MicrosoftOnedriveId %}
 
 PowerShell Code example
 ``` powershell
