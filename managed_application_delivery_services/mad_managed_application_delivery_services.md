@@ -5,7 +5,7 @@ keywords: Managed Application Delivery Services, MAD, Liquit Workspace
 #last_updated: March 3, 2022
 #summary: "Collections are useful if you want to loop through a special folder of pages that you make available in a content API. You could also use collections if you have a set of articles that you want to treat differently from the other content, with a different layout or format."
 sidebar: managed_application_delivery_services-sidebar
-permalink: managed_application_delivery_services.html
+permalink: mad_managed_application_delivery_services.html
 folder: managed_application_delivery_services
 YouTubeId: cszpDeo0aDk
 MicrosoftStreamId: 1efb2e36-2641-4f79-af3d-a2f5d9636c7c
