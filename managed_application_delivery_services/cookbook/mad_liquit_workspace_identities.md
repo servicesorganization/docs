@@ -85,7 +85,7 @@ You can find additional information in the following link [Deployments - Automat
 
 {% include note.html content="Deployments needs to be approved by assignments. A deployment can be dynamically assigned with contexts.
 Different types of contexts." %}
-## Different types of contexts
+### Different types of contexts
 
 - DTAP contexts
     - Production contexts
@@ -93,7 +93,7 @@ Different types of contexts." %}
     - Test contexts
 - Filter contexts (A filter context is used to query devices based on all devices. For example, a filter context is used to filter all devices with a liquit agent with version X. )
 
-## Contexts conflicting settings
+### Contexts conflicting settings
 
 It is possible to have multiple contexts applied to the user environment. Conflicts are able to apply if multiple contexts are applied. The following table describes the actions take during conflicts.
 
