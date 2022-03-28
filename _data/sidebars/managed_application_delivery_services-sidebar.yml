@@ -22,15 +22,25 @@ entries:
   - title: Liquit as a Service Infrastructure
     output: web
     folderitems:
-    - title: Liquit Workspace Cloud Infrastructure
-      url: /mad_liquit_workspace_cloud_infrastructure.html
+    - title: Liquit As A Service Infrastructure
+      url: /mad_liquitasaservice_main.html
       output: web
-    - title: Liquit Workspace - Cookbook
-      url: /mad_liquit_workspace_cookbook.html
+    - title: Liquit Workspace Server
+      url: /mad_liquitasaservice_liquitserver.html
       output: web
-    - title: Liquit Workspace - Runbook
-      url: /mad_liquit_workspace_runbook.html
+    - title: Liquit Workspace Satelite Server
+      url: /mad_liquitasaservice_liquitsateliteserver.html
       output: web
+    - title: Content Store - Azure Blob
+      url: /mad_liquitasaservice_azureblob.html
+      output: web
+    - title: Microsoft Azure SQL Database
+      url: /mad_liquitasaservice_azure_sql_database.html
+      output: web
+    - title: Microsoft Azure Loadbalancer
+      url: /mad_liquitasaservice_azure_loadbalancer.html
+      output: web
+
 
 
 
