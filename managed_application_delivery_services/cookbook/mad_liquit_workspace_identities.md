@@ -55,7 +55,7 @@ It is possible to assign “Access Policies” to contexts, this allows for adva
 
 {% include note.html content="The liquit as a Service services are cloud hosted. Remember to use the public IP-adress to define a company network." %}
 
-You can find additional information in the following link [Liquit Workspace - System](https://loginconsultants.atlassian.net/wiki/spaces/orangeworkspace/pages/2028994599) and [Access Policies - System](https://docs.liquit.com/docs/lws-system-access-policies).
+You can find additional information in the following link [Liquit Workspace - System](mad_liquit_workspace_system.md) and [Access Policies - System](https://docs.liquit.com/docs/lws-system-access-policies).
 
 #### Content Access
 
@@ -91,7 +91,7 @@ You can find additional information in the following link [Packages - Workspace]
 
 Deployments can be assigned to contexts. To add a deployment you can use the lookup field.
 
-You can find additional information in the following link [Deployments - Automation](https://docs.liquit.com/docs/lws-automation-deployments) and [Liquit Workspace - Automation](https://loginconsultants.atlassian.net/wiki/spaces/orangeworkspace/pages/2028994575)
+You can find additional information in the following link [Deployments - Automation](https://docs.liquit.com/docs/lws-automation-deployments) and [Liquit Workspace - Automation](mad_liquit_workspace_automation.md)
 
 {% include note.html content="Deployments needs to be approved by assignments. A deployment can be dynamically assigned with contexts.
 Different types of contexts." %}
