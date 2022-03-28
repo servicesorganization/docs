@@ -9,7 +9,7 @@ entries:
     output: web
     folderitems:
     - title: Managed Application Delivery Services
-      url: /managed_application_delivery_services.html
+      url: /mad_managed_application_delivery_services.html
       output: web
     - title: What is Managed Application Delivery Service?
       url: /mad_what_is_managed_application_delivery_service.html
@@ -22,18 +22,6 @@ entries:
   - title: Liquit as a Service Infrastructure
     output: web
     folderitems:
-    - title: Managed Application Delivery Services
-      url: /managed_application_delivery_services.html
-      output: web
-    - title: What is Managed Application Delivery Service?
-      url: /mad_what_is_managed_application_delivery_service.html
-      output: web
-    - title: About Liquit Workspace?
-      url: /mad_about_liquit_workspace.html
-      output: web
-    - title: Liquit Release & Patch Management
-      url: /mad_liquit_release_and_patchmanagement.html
-      output: web
     - title: Liquit Workspace Cloud Infrastructure
       url: /mad_liquit_workspace_cloud_infrastructure.html
       output: web
@@ -49,15 +37,6 @@ entries:
   - title: Liquit Workspace - Cookbook
     output: web
     folderitems:
-    - title: Managed Application Delivery Services
-      url: /managed_application_delivery_services.html
-      output: web
-    - title: What is Managed Application Delivery Service?
-      url: /mad_what_is_managed_application_delivery_service.html
-      output: web
-    - title: About Liquit Workspace?
-      url: /mad_about_liquit_workspace.html
-      output: web
     - title: Liquit Release & Patch Management
       url: /mad_liquit_release_and_patchmanagement.html
       output: web
@@ -75,12 +54,6 @@ entries:
   - title: Liquit Workspace - Runbook
     output: web
     folderitems:
-    - title: Managed Application Delivery Services
-      url: /managed_application_delivery_services.html
-      output: web
-    - title: What is Managed Application Delivery Service?
-      url: /mad_what_is_managed_application_delivery_service.html
-      output: web
     - title: About Liquit Workspace?
       url: /mad_about_liquit_workspace.html
       output: web
