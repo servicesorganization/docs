@@ -47,36 +47,55 @@ entries:
   - title: Liquit Workspace - Cookbook
     output: web
     folderitems:
-    - title: Liquit Release & Patch Management
-      url: /mad_liquit_release_and_patchmanagement.html
-      output: web
-    - title: Liquit Workspace Cloud Infrastructure
-      url: /mad_liquit_workspace_cloud_infrastructure.html
-      output: web
     - title: Liquit Workspace - Cookbook
       url: /mad_liquit_workspace_cookbook.html
       output: web
-    - title: Liquit Workspace - Runbook
-      url: /mad_liquit_workspace_runbook.html
+    - title: Liquit Workspace - Identities
+      url: /mad_liquit_workspace_identities.html
       output: web
+    - title: Liquit Workspace - Workpace
+      url: /mad_liquit_workspace_workspace.html
+      output: web
+    - title: Liquit Workspace - Automation
+      url: /mad_liquit_workspace_automation.html
+      output: web
+    - title: Liquit Workspace - Portal
+      url: /mad_liquit_workspace_portal.html
+      output: web
+    - title: Liquit Workspace - Authentication
+      url: /mad_liquit_workspace_authentication.html
+      output: web
+    - title: Liquit Workspace - System
+      url: /mad_liquit_workspace_system.html
+      output: web
+    - title: Liquit Workspace - Agent
+      url: /mad_liquit_workspace_agent.html
+      output: web
+    - title: Liquit Workspace - Design Decisions
+      url: /mad_liquit_workspace_designdecisions.html
+      output: web
+
 
 
   - title: Liquit Workspace - Runbook
     output: web
     folderitems:
-    - title: About Liquit Workspace?
-      url: /mad_about_liquit_workspace.html
-      output: web
-    - title: Liquit Release & Patch Management
-      url: /mad_liquit_release_and_patchmanagement.html
-      output: web
-    - title: Liquit Workspace Cloud Infrastructure
-      url: /mad_liquit_workspace_cloud_infrastructure.html
-      output: web
-    - title: Liquit Workspace - Cookbook
-      url: /mad_liquit_workspace_cookbook.html
-      output: web
     - title: Liquit Workspace - Runbook
       url: /mad_liquit_workspace_runbook.html
       output: web
+    - title: Liquit Workspace - Onboarding
+      url: /mad_liquit_workspace_onboarding.html
+      output: web
+    - title: Liquit Workspace - Standard Changes
+      url: /mad_liquit_workspace_standardchanges.html
+      output: web
+    - title: Liquit Workspace - Maintenance
+      url: /mad_liquit_workspace_maintenance.html
+      output: web
+
+
+
+
+
+
 # Copyright 2021 Google LLC
