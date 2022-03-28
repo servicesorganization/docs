@@ -8,9 +8,6 @@ entries:
   - title: Managed Application Delivery Services
     output: web
     folderitems:
-    - title: Managed Application Delivery Services
-      url: /mad_managed_application_delivery_services.html
-      output: web
     - title: What is Managed Application Delivery Service?
       url: /mad_what_is_managed_application_delivery_service.html
       output: web
@@ -47,9 +44,6 @@ entries:
   - title: Liquit Workspace - Cookbook
     output: web
     folderitems:
-    - title: Liquit Workspace - Cookbook
-      url: /mad_liquit_workspace_cookbook.html
-      output: web
     - title: Liquit Workspace - Identities
       url: /mad_liquit_workspace_identities.html
       output: web
@@ -80,9 +74,6 @@ entries:
   - title: Liquit Workspace - Runbook
     output: web
     folderitems:
-    - title: Liquit Workspace - Runbook
-      url: /mad_liquit_workspace_runbook.html
-      output: web
     - title: Liquit Workspace - Onboarding
       url: /mad_liquit_workspace_onboarding.html
       output: web
