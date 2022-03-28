@@ -14,9 +14,9 @@ entries:
     - title: What is Managed Application Delivery Service?
       url: /mad_what_is_managed_application_delivery_service.html
       output: web
-      - title: About Liquit Workspace?
-        url: /mad_about_liquit_workspace.html
-        output: web
+    - title: About Liquit Workspace?
+      url: /mad_about_liquit_workspace.html
+      output: web
 
 
   - title: Liquit as a Service Infrastructure
