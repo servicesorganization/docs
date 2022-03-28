@@ -19,24 +19,28 @@ A Context basically is a group of filters which determine which objects are a me
 
 A context object has access to filters based on the device, session and user objects. Even a scripting option is available to create complex contexts which can’t be solved with the editor. Context awareness in Liquit Workspace 3.0 allows you to:
 
-> Publish applications based on the department field as configured within your Active Directory.
-> Combine information about a device and user to assign applications, so only if User A is logged on Device B will grant him access to the application.
-> By assigning Liquit permissions to contexts allows you to only have Administrative access to the Liquit Workspace from within the company network, any other location will give normal user permissions.
+- Publish applications based on the department field as configured within your Active Directory.
+- Combine information about a device and user to assign applications, so only if User A is logged on Device B will grant him access to the application.
+- By assigning Liquit permissions to contexts allows you to only have Administrative access to the Liquit Workspace from within the company network, any other location will give normal user permissions.
 
 ### Context settings
 
 In the following chapters the settings within a context will be described
+
 #### Overview
 
 In the overview General Settings are configured. 
+
 #### Filters
 
 Filters are only available to you if you chose to create a filter type Context. The filters enable you to define the attributes that define the Context.
 
 You can find additional information in the following link [Context Filters - Filters](https://docs.liquit.com/docs/lws-appendix-filters-context-filters).
+
 #### Devices
 
 Shows a list of possible devices that can be assigned the context. User-based filters are ignored when showing this list.
+
 #### Variables
 
 Contexts let you override system wide variables and let you define completely new variables. To override an existing variable simply click the variable and enter a new value for the variable. To add a new one click the “Add Variable” button and enter your new key value pair. 
@@ -52,19 +56,23 @@ It is possible to assign “Access Policies” to contexts, this allows for adva
 {% include note.html content="The liquit as a Service services are cloud hosted. Remember to use the public IP-adress to define a company network." %}
 
 You can find additional information in the following link [Liquit Workspace - System](https://loginconsultants.atlassian.net/wiki/spaces/orangeworkspace/pages/2028994599) and [Access Policies - System](https://docs.liquit.com/docs/lws-system-access-policies).
+
 #### Content Access
 
 N/A
+
 #### Portal Settings
 
 The portal settings tab allows you to override the portal settings for the given context. 
 
 You can find additional information in the following link [Portal Settings - Portal](https://docs.liquit.com/docs/lws-portal-portal-settings).
+
 #### User Settings
 
 The user settings tab allows you to override the portal settings for the given context.
 
 You can find additional information in the following link [User Settings - Portal](https://docs.liquit.com/docs/lws-portal-user-settings).
+
 #### Login Settings
 
 The login settings tab allows you to override the login settings for the given context.
@@ -72,11 +80,13 @@ The login settings tab allows you to override the login settings for the given c
 You can find additional information in the following link [Login Settings - Portal](https://docs.liquit.com/docs/lws-portal-login-settings). 
 
 {% include note.html content="Setting the login settings was not applied during testing. This needs to be investigated and retested. " %}
+
 #### Packages
 
 Packages can be assigned to contexts, to add a package simply use the lookup field and select it. The modal window presented will ask you how to assign the entitlement and which events should be used to initiate the package. 
 
 You can find additional information in the following link [Packages - Workspace](https://docs.liquit.com/docs/lws-workspace-packages)
+
 ####  Deployments
 
 Deployments can be assigned to contexts. To add a deployment you can use the lookup field.
@@ -85,6 +95,7 @@ You can find additional information in the following link [Deployments - Automat
 
 {% include note.html content="Deployments needs to be approved by assignments. A deployment can be dynamically assigned with contexts.
 Different types of contexts." %}
+
 ### Different types of contexts
 
 - DTAP contexts
