@@ -85,19 +85,20 @@ You can find additional information in the following link [Deployments - Automat
 
 {% include note.html content="Deployments needs to be approved by assignments. A deployment can be dynamically assigned with contexts.
 Different types of contexts." %}
+## Different types of contexts
 
+- DTAP contexts
+    - Production contexts
+    - Acceptance contexts
+    - Test contexts
+- Filter contexts (A filter context is used to query devices based on all devices. For example, a filter context is used to filter all devices with a liquit agent with version X. )
 
-> DTAP contexts
-    > Production contexts
-    > Acceptance contexts
-    > Test contexts
-> Filter contexts (A filter context is used to query devices based on all devices. For example, a filter context is used to filter all devices with a liquit agent with version X. )
-
-#### Contexts conflicting settings
+## Contexts conflicting settings
 
 It is possible to have multiple contexts applied to the user environment. Conflicts are able to apply if multiple contexts are applied. The following table describes the actions take during conflicts.
 
 Context Settings | Priority with conflicting contexts
+-------|-------
 Variables | Lowest priority if variable is 
 Access Policy | Highest amount rights is applied
 Content Access | Unknown - Need testing
@@ -109,20 +110,20 @@ Deployments | All deployments are approved
 
 See the chapter [Design Decissions](mad_liquit_workspace_designdecisions.md) for the design decisions.
 
-#### Device Collections
+## Device Collections
 
 Device Collections are groups for your devices, they allow you to add devices to a collection.
 This feature comes in handy when you want to manage a group of devices, for example when you want to run a certain action on a selection of devices.
 
 Dynamically grouping devices based on attributes and more could by achieved by using the Contexts feature.
-#### Devices
+## Devices
 
 Devices are a list of Devices that have been connected to your Liquit Workspace.
 They allow you to assign Packages and Deployments to defined Devices, you can also view users who currently logged in on a Device. Currently it is required for the Device to have an Agent running to be registered.
-#### Groups
+## Groups
 
 Groups are available from added Identity Sources, it currently is not possible to add, remove or edit any groups. However it is possible to assign Packages and Access Polices to them.
-#### Users
+## Users
 
 Users are available from added Identity Sources and from the LOCAL identity source, currently it is only possible to add, remove users within the LOCAL identity source. However it is possible to assign different entities to them.
 
