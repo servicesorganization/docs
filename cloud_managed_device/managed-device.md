@@ -29,3 +29,6 @@ When devices are enrolled and managed in Intune, administrators can:
 *   See reports on users and devices compliance.
     
 *   Remove organization data if a device is lost, stolen, or not used anymore.
+
+
+{% include links.html %}
