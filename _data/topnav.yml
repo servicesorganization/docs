@@ -1,65 +1,65 @@
 ## Topnav single links
-## if you want to list an external url, use external-url instead of url. the theme will apply a different link base.
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
 
 # topnav:
 #    - title: Topnav
 #      items:
 #        - title: Support
-#          external-url: https://support.orangeworkspaeservices.com        
+#          external_url: https://support.orangeworkspaeservices.com        
 #        - title: Contact
 #          url: /contact.html
       
 #Topnav dropdowns
-topnav-dropdowns:
+topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
 
     - title: Design
       folderitems:
         - title:  Orange Workspace Services
-          url: /orange-workspace-services.html
+          url: /orange_workspace_services.html
         - title: Design Principles
-          url: /design-principles.html
+          url: /design_principles.html
         - title: Architecture
           url: /architecture.html
     
     - title: Core Services
       folderitems:
         - title: Managed Cloud Foundation Services
-          url: /managed-cloud-foundation-services.html
+          url: /managed_cloud_foundation_services.html
         - title: Managed Identity and Access
-          url: /managed-identity-and-access.html
+          url: /managed_identity_and_access.html
         - title: Cloud Managed Device
           url: /what-is-a-cloud-managed-device.html
         - title: Managed Office 365
-          url: /managed-office-365.html
+          url: /managed_office_365.html
         - title: Managed Cloud Hosted Desktop & Apps
-          url: /managed-cloud-hosted-desktop-and-apps.html
+          url: /managed_cloud_hosted_desktop_and_apps.html
 
     - title: Additional Services
       folderitems:
         - title: Managed Cloud Hosted Desktop & Apps (Hybrid)
-          url: /managed-cloud-hosted-desktop-and-apps-hybrid.html
+          url: /managed_cloud_hosted_desktop_and_apps_hybrid.html
         - title: Managed Local & Office Lan/WiFi
-          url: /managed-local-and-office-lan-wifi.html
+          url: /managed_local_and_office_lan_wifi.html
         - title: Device as a Service
-          url: /device-as-a-service.html
+          url: /device_as_a_service.html
         - title: Teams Operator Connect
-          url: /teams-operator-connect.html
+          url: /teams_operator_connect.html
         - title: Managed Application Delivery Services
-          url: /mad-managed-application-delivery-services.html
+          url: /mad_managed_application_delivery_services.html
         - title: Managed Workspace Portal
-          url: /managed-workspace-portal.html
+          url: /managed_workspace_portal.html
         - title: Digital Employee Experience Monitoring
-          url: /digital-employee-experience-monitoring.html
+          url: /digital_employee_experience_monitoring.html
         - title: Managed Detection and Response
-          url: /managed-detection-and-response.html
+          url: /managed_detection_and_response.html
         - title: Cloud Managed Printing
-          url: /cloud-managed-printing.html
+          url: /cloud_managed_printing.html
         - title: Employee Adoption Service
-          url: /employee-adoption-service.html
+          url: /employee_adoption_service.html
         - title: Employee Support Desk
-          url: /employee-support-desk.html
+          url: /employee_support_desk.html
 
     - title: Operating Model
       folderitems:
