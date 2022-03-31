@@ -59,6 +59,18 @@ topnav_dropdowns:
           url: /employee_adoption_service.html
         - title: Employee Support Desk
           url: /employee_support_desk.html
+    - title: Operating Model
+      folderitems:
+        - title: Managed Cloud Foundation Services
+          url: /managed_cloud_foundation_services.html
+        - title: Managed Identity and Access
+          url: /managed_identity_and_access.html
+        - title: Cloud Managed Device
+          url: /what-is-a-cloud-managed-device.html
+        - title: Managed Office 365
+          url: /managed_office_365.html
+        - title: Managed Cloud Hosted Desktop & Apps
+          url: /managed_cloud_hosted_desktop_and_apps.html
           
           
 # Copyright 2021 Google LLC
