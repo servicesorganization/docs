@@ -40,27 +40,15 @@ topnav_dropdowns:
       folderitems:
         - title: Managed Cloud Hosted Desktop & Apps (Hybrid)
           url: /managed_cloud_hosted_desktop_and_apps_hybrid.html
-        - title: Managed Local & Office Lan/WiFi
-          url: /managed_local_and_office_lan_wifi.html
-        - title: Device as a Service
-          url: /device_as_a_service.html
         - title: Teams Operator Connect
           url: /teams_operator_connect.html
-        - title: Managed Application Delivery Services
-          url: /mad_managed_application_delivery_services.html
-        - title: Managed Workspace Portal
-          url: /managed_workspace_portal.html
         - title: Digital Employee Experience Monitoring
           url: /digital_employee_experience_monitoring.html
         - title: Managed Detection and Response
           url: /managed_detection_and_response.html
         - title: Cloud Managed Printing
           url: /cloud_managed_printing.html
-        - title: Employee Adoption Service
-          url: /employee_adoption_service.html
-        - title: Employee Support Desk
-          url: /employee_support_desk.html
-
+          
     - title: Operating Model
       folderitems:
         - title: Development & Tools
